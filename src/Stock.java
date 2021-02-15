@@ -2,7 +2,7 @@ public class Stock{
     private String nameStock;
     private int numberStock;
     private int valueStock;
-
+ 
     //Default constructor
     public Stock (String nStock, int vStock, int NbStock){
         this.nameStock = nStock;
